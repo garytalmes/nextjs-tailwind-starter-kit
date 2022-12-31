@@ -1,0 +1,17 @@
+{
+  "editor.tabSize": 2,
+  "editor.fontSize": 16,
+  "editor.wordWrap": "on",
+  "css.customData": ["./css-data.json"],
+  "files.associations": {
+    "**/src/**/*.js": "javascriptreact",
+    "*.css": "tailwindcss"
+  },
+  "debug.javascript.codelens.npmScripts": "never",
+  "emmet.includeLanguages": {
+    "javascript": "javascript,javascriptreact"
+},
+"files.exclude": {
+
+}
+}
