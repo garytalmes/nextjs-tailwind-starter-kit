@@ -6,12 +6,9 @@ module.exports = {
   ],
   theme: {
     fontFamily: {
-      'logo': [ 'ui-sans-serif' ],
-      'headline': [ 'Tahoma', 'ui-sans-serif' ],
-      'body': [ 'Verdana', 'ui-sans-serif' ],
-      'sans': [ 'ui-sans-serif' ],
-      'serif': [ 'DM Serif Text', 'ui-serif' ],
-      'mono': [ 'courier', 'ui-monospace' ]
+      'sans': [ 'Tahoma', 'ui-sans-serif' ],
+      'serif': [ 'Times', 'ui-serif' ],
+      'mono': [ 'Courier', 'ui-monospace' ]
     },
     screens: {
       xs: '360px',
